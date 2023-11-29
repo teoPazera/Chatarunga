@@ -1,0 +1,10 @@
+Dobrý deň,
+hádam ešte nie je neskoro na odovzdanie návrhu na semestralný projekt.
+Rád by som spravil Chatarungu, je to jedna z pôvodných verzií šachu.
+Len má pár kúsok inak vyzerajúcich figuriek. Ako animaciu by som rád spravil dáky prechod na vyherný screen z ktorého by sa dala začať znovu hra.
+(Neviem či je to dostačujúce alebo by som mal pridať ešte nijakú)
+Tiež by som mal otázku či takýto projekt môže dosiahnuť 6,8 bodu, keďže toľko potrebujem aby som prešiel bez skúšky. 
+Predom ďakujem za odpoveď.
+Teo Pazera
+ 
+

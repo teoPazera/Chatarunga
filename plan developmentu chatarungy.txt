@@ -1,0 +1,30 @@
+plan developmentu chatarungy
+1. obrazky piecov +
+2. sachovnica grafika + este doplnit ocislovanie riadkov a opismenkovanie stlpcov +
+3. zakliknutie figurky co chcem pohnut +
+4. najdenie pohybov co vie spravit (pesiaci, veze, kralovia, kyjaky,slony,kôn) +
+4,5. prerobit grafiku nech tagujem polia a tak viem menit farby nie prefarbovat +
+4.75 prerobit aj images na tagy +
+5. rozsvietenie moznych pohybov +
+5,5. check krala +
+5,75. len pri zakliknutom kralovy spravit zoznam attacknutych policok enemy figuriek a ak je daka mozna move kralova v nom vyhodit ju z jeho movov+
+5.76 modifkovat to ake moves su attacknute --> +
+5.85. ak je enemy veza v rovnakom stlpci/riadku ako kral a je medzi nimi len jedna figurka nedovolit jej skocit do vedlajsieho riadku/stlpcu+
+5.95. check graficky ukazat + animacia +
+----------------------------------------------------dovolit len moves co ho zrusia
+5.96. ak nie su moves vyhlasit koniec hry/ sachmat+
+6. prepojenie 4. z ohrozenim krala+
+7. presunutie figurky/ spojenie systemu s zakliknutim +
+8. presun v tabulke hry +
+9. pridanie tlacidiel resign +
+10. pridanie instrukcii- https://www.chess.com/terms/chaturanga-game +
+12. promotin pesiakov+
+13. animacia vyhry +
+13.5 reset hry +
+14. ozdobenie plochy/zakladny screen/farba podsvietenia pri vybijani ina nez len pri presune +
+15. cistenie kódu
+
+
+
+
+

@@ -1,0 +1,14 @@
+How to play Chatarunga.
+Objective is to check mate opponents king like in traditional chess. 
+Check mate will be automaticly announced by Computer and the game will end.
+It can also end with draw you can either request a draw, and your opponents has to accept. Or you put your self in Pat position leading to computer announcing the draw.
+White always starts game. You can see who is on move in box on the right based on colour in it.
+Available moves:
+Moves of the piece u click on will automatically show, either they will be red meaing that u will take opponents piece, or purple that you just move to that square.
+Your pawns move almost like in traditional chess (look at picture), however they cant jump 2 rows when they are first moved.
+Your rook moves like in traditional chess (look at picture), however you can not do rokade is not available in Chatarunga.
+Your knight moves like in traditional chess, jumping in 'L' shapes(look at picture).
+Your elephant moves on diagonals, he jumps over one square(look at picture).
+Your Queen in this case mace, can only move on diagonals and only on distance 1(look at picture).
+Your king moves like in traditional chess attacking all spaces in distance 1(look at picture).
+You can promte a pawn when you get to opponets side wih him, he will automatically turn to mace.(look at picture)
